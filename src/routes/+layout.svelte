@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Prueba Lectiva</title>
+	<title>3er Corte - Segunda Actividad</title>
 	<meta
 		name="description"
 		content="Base SvelteKit con arquitectura feature-first/domain-first para integrar Rick and Morty."
